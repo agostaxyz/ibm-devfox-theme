@@ -7,17 +7,20 @@
     "images": {
       "additional_backgrounds": [
         "rebus.png",
-        "ibm.png"
+        "ibm.png",
+        "noise.png"
       ]
     },
     "properties": {
       "additional_backgrounds_alignment": [
         "left top",
-        "right top"
+        "right top",
+        "center top"
       ],
       "additional_backgrounds_tiling": [
         "no-repeat",
-        "no-repeat"
+        "no-repeat",
+        "repeat"
       ]
     },
     "colors": {
@@ -33,9 +36,15 @@
       "ntp_background": "rgb(79, 89, 105)",
       "ntp_text": "rgb(255, 255, 255)",
       "popup_border": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(62, 102, 182)",
       "tab_selected": "rgb(255, 255, 255)",
       "tab_text": "rgb(0, 0, 0)",
-      "tab_loading": "rgb(255, 255, 255)"
+      "toolbar_field_border_focus": "rgb(82, 82, 82)",
+      "toolbar_field_border": "rgb(255, 255, 255)",
+      "toolbar_field_focus": "rgb(255, 255, 255)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+      "toolbar_field_text_focus": "rgba(0, 0, 0, 0.96)"
     }
   }
 }
