@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "IBM Dev",
+  "homepage_url": "https://github.com/agostaxyz/ibm-firefox-theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "rebus.png",
+        "ibm.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top",
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat",
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(62, 102, 182)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(20, 54, 123)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(20, 54, 123)",
+      "popup_text": "rgb(215, 226, 239)",
+      "ntp_background": "rgb(79, 89, 105)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_border": "rgb(255, 255, 255)",
+      "tab_selected": "rgb(255, 255, 255)",
+      "tab_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  }
+}
